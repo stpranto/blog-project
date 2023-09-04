@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "title": "Getting Started with Next.js",
+      "content": "Next.js is a powerful framework for building React applications...",
+      "date": "2023-09-01"
+    },
+    {
+      "id": "2",
+      "title": "Routing in Next.js",
+      "content": "Next.js provides easy-to-use routing capabilities...",
+      "date": "2023-09-02"
+    },
+    {
+      "id": "3",
+      "title": "Styling in Next.js",
+      "content": "You can use CSS modules to style your Next.js components...",
+      "date": "2023-09-03"
+    }
+  ]
+  
